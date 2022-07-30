@@ -1,1 +1,1 @@
-# postgresha-with-patroni
+# postgres-highavailability-with-patroni
