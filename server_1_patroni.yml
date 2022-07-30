@@ -77,3 +77,10 @@ tags:
     noloadbalance: false
     clonefrom: false
     nosync: false      
+
+# Used for logical replication
+slots:
+  logical_replica_db1:
+    type: logical
+    database: db1
+    plugin: pgoutput
